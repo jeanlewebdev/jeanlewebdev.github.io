@@ -1,0 +1,17 @@
+.bouton{
+    background-color: green;
+    height: 50px;
+    width: 150px;
+}
+
+.bouton2{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+
+    padding: 15px;
+}
+.card>img{
+    height : 250px
+}
